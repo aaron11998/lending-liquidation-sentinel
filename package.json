@@ -1,6 +1,6 @@
 {
   "name": "lending-liquidation-sentinel",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "private": true,
   "description": "x402-gated Aave V3 liquidation-risk sentinel on Cloudflare Workers (bounty #9, daydreamsai/agent-bounties)",
   "type": "module",
