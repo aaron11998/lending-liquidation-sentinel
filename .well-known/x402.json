@@ -3,7 +3,7 @@
   "resource": {
     "id": "lending-liquidation-sentinel",
     "name": "Lending Liquidation Sentinel",
-    "description": "Monitor lending positions for liquidation risk and execute protective actions"
+    "description": "Real-time liquidation monitoring for major lending protocols"
   },
   "description": "Access to the lending liquidation sentinel API",
   "accepts": [
